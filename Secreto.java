@@ -20,7 +20,7 @@ public class Secreto {
 			 if (cont==5){
 				 System.out.println("No acertaste en tus 5 intentos");
 			 }
-			 
+			 System.out.println("HOLAAA);
 			 
 		 }	 
 	}
