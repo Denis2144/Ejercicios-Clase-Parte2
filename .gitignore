@@ -1,0 +1,3 @@
+#Vamos a ignorar los ficheros .txt
+*.txt
+
